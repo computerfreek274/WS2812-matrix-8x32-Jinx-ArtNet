@@ -1,4 +1,4 @@
-This is for the 8x32 Maxrix display from china or amamzon. 
+This is for the 8x32 Maxrix display from china, amamzon or Adafruit. 
 
 
 Step 1 flash the Artnet to your wemo or Nodemcu esp8266 ArtnetWifiNeoPixel.ino found here
@@ -14,6 +14,8 @@ Step 5 pick something from the 1st list channell one like Fire or test and check
 Step 6 Play 
 
 
-Notes. art-net artnet matrix More sizes coming soon 8x32 16x32 and more.
+Notes. art-net artnet matrix More sizes coming soon 8x32 16x32 and more. Should work with Adafruit NeoMatrix 8x32 but untested. 
+
+
 
 
