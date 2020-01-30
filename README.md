@@ -14,3 +14,6 @@ Step 5 pick something from the 1st list channell one like Fire or test and check
 Step 6 Play 
 
 
+Notes. art-net artnet matrix More sizes coming soon 8x32 16x32 and more.
+
+
